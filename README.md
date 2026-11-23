@@ -25,4 +25,4 @@ Mantengo mis perfiles alineados para facilitar el seguimiento de mis proyectos y
 - **Portafolio / GitHub Pages:** [https://yose3029.github.io/Yose3029/](https://yose3029.github.io/Yose3029/)
 - **GitHub Pages — Gestión de Usuarios y Grupos:** [https://yose3029.github.io/utp-gestion-usuarios-grupos/](https://yose3029.github.io/utp-gestion-usuarios-grupos/)
 - **GitHub Pages — Estructuras de Datos (ABB):** [https://yose3029.github.io/utp-estructuras-datos-abb/](https://yose3029.github.io/utp-estructuras-datos-abb/)
-- **CV en PDF:** [Ver o descargar CV](./CV_YoselinPerez.pdf)
+- **CV en PDF:** [Ver o descargar CV](./CVYoselinPerez.pdf)
